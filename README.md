@@ -19,3 +19,10 @@ Gives you a more reliable estimate of model performance
 Reduces risk of overfitting to a single train-test split
 
 Works great on small to medium datasets
+
+**Stratified K Fold Cross Validation**
+
+It's just like regular K-Fold, but it ensures that each fold has the same proportion of each class as the original dataset.
+
+This helps your model get a more balanced view during training/testing in each fold.
+

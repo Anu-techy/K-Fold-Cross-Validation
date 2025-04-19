@@ -12,7 +12,7 @@ It’s a technique that:
 
       Averages the evaluation scores (accuracy, AUC, etc.) across all K runs
 
-** Why use K-Fold?**
+**Why use K-Fold?**
 
 Gives you a more reliable estimate of model performance
 
